@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love blending creativity and logic—whether it's through code or marketing campaigns.
 
-
+> 🌍 *"The world belongs to humanity — not to any one leader, ruler, or ideology. It belongs to all of us, together, as one global community."*
 
 <!---
 fboudair/fboudair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
