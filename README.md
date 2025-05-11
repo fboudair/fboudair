@@ -7,7 +7,7 @@
 - 🔭 Focused on merging digital marketing, beauty industry knowledge, and app development to create impactful mobile solutions.
 - 🤝 Open to collaborating on global tech projects, especially in health, wellness, and e-commerce.
 - 💻 Continuously exploring new technologies and coding best practices.
-- 📫 How to reach me: **Email** – *(add your email here)*
+- 📫 How to reach me: **Email** – *(boudairfatme@gmail.com)*
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I managed a restaurant for 5 years and trained professionals in the beauty industry before diving into tech!
 
