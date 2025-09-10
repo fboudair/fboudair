@@ -46,6 +46,8 @@
 
 - 💼 [SQT Bio Microneedling App](https://github.com/yourusername/sqt-app) — iOS app for professional skin care product sales & training  
 - 📱 [TechQ&A Arabic](https://github.com/yourusername/tech-qa-arabic) — Arabic Q&A app with over 1,000 questions  
+- 🔬 **[Science ELearning System](https://github.com/fboudair/science-elearning-system)**  
+- 🌐 **Website:** [https://fatmeelzahraa.com/](https://fatmeelzahraa.com/)
 
 ---
 
