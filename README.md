@@ -71,6 +71,14 @@
 
 ---
 
+## 📫 Connect With Me
+
+- 📧 Email: [(boudairfatme@gmail.com)](mailto:(boudairfatme@gmail.com)]
+- 📞 Phone: +1 (647)770-7760
+- 🌐 Website:   [](#)
+- 💼 LinkedIn: [https://www.linkedin.com/feed/](#)
+- 📘 Facebook: [](#)
+-----------
 > 💬 **Note:** My transition into tech comes from a deep passion for digital innovation. With years of experience in business and beauty industry training, I realized my true interest lies in building solutions and creating meaningful digital experiences. I'm currently learning both **iOS (Swift)** and **Android (Kotlin/Java)** development, combining creativity, strategy, and continuous growth in everything I build.
 
 
