@@ -60,6 +60,7 @@
 - Build a personal portfolio website  
 - Collaborate on open-source projects  
 - Integrate marketing and mobile development into one unique user solution
+- ### “I don’t just design websites — I create digital storefronts that make beauty brands shine online.”
 
 ---
 
