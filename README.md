@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @fboudair
 
+### “Good web design is about guiding the eyes, engaging the mind, and moving the heart.”
+
 - 👩‍💻 I’m a **Digital Marketing Specialist**, **Beauty Industry Trainer**, and aspiring **Mobile Web Developer (MWD)**.
 - 🚀 A fast learner and smart problem-solver with a strong foundation in both tech and business.
 - 👀 Passionate about app development, digital strategy, video content, and innovation.
